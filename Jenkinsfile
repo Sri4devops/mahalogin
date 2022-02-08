@@ -1,5 +1,5 @@
 node{
-stage('clone jenkinsjava project') {
+stage('clone myjenkinsjava project') {
     git 'https://github.com/Sri4devops/mahalogin.git'
 }    
     
